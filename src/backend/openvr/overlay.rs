@@ -1,6 +1,7 @@
 use core::f32;
 use std::sync::Arc;
 
+use glam::Affine3A;
 use glam::Vec4;
 use ovr_overlay::{
     overlay::{OverlayHandle, OverlayManager},
